@@ -1,0 +1,12 @@
+# ============================================================
+# RAILPULSE AI
+# PROJECT DEPENDENCIES
+# ============================================================
+
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+streamlit
+pytest
