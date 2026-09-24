@@ -1,0 +1,55 @@
+# ============================================================
+# RAILPULSE AI
+# GIT IGNORE
+# ============================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Packaging
+*.egg-info/
+dist/
+build/
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Test / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Machine Learning Temporary Files
+*.pkl.tmp
+*.joblib.tmp
